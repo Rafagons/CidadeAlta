@@ -1,3 +1,9 @@
+<div align="center">
+<img src=![Esporte Clube Cidade Alta](https://user-images.githubusercontent.com/100715198/156223752-58f4d945-3878-4f73-8ad4-e43f58a1ec6b.png) width="700px" />
+</div>
+
+
+
 ## Esporte Clube Cidade Alta
 
 You can use the [editor on GitHub](https://github.com/Rafagons/rafagonspage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
